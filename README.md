@@ -101,7 +101,7 @@ Edit `config.py` to adjust:
 | `Model/SHAP.py` | `shap_analyze()` |
 
 ## Contact
-Shaofeng Lin: linshaofeng@fjmu.edu.cn
+Shaofeng Lin: linshaofeng@fjmu.edu.cn<br>
 Zengbei Yuan: ahmuyuanzengbei@163.com
 
 ## License
