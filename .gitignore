@@ -1,0 +1,45 @@
+# Data & Results
+data/
+output/
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.dcm
+*.nii
+*.nii.gz
+*.png
+*.jpg
+*.pdf
+*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter (legacy)
+*.ipynb
+.ipynb_checkpoints/
+
+# MiMoCode
+.mimocode/
